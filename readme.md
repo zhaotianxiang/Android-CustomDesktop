@@ -1,4 +1,6 @@
-# Cuntom Destop 定制Android系统 3×3 的显示桌面， 并且对显示的 App 排序
+# Cuntom Destop
+
+**定制Android系统3×3的显示桌面，并且对显示的App排序**
  
  > 来源： 小米公司第三面面试题目
  
